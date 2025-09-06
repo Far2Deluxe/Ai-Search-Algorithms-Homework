@@ -1,0 +1,2 @@
+Jupiter Homework V3 file contains all the exercises, however, Exercise 4.1 which uses flask lib to create an API requires to be run in a regular py file since flask tends to try to re-run the code which fails on jubiter notebook, therefore exercise 4.1 is saved in
+External python file called "Exercise 4 Api.py" and the test code that connects the API is contained with in the jupiter file "Jupiter Homework V3.ipynb".
